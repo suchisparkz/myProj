@@ -28,6 +28,7 @@
 		FA2C63CA174F78B5003DCFF5 /* moneybg.png in Resources */ = {isa = PBXBuildFile; fileRef = FA2C63BD174F78B5003DCFF5 /* moneybg.png */; };
 		FA2C63CB174F78B5003DCFF5 /* right_arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = FA2C63BE174F78B5003DCFF5 /* right_arrow.png */; };
 		FA2C63CC174F78B5003DCFF5 /* right_arrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FA2C63BF174F78B5003DCFF5 /* right_arrow@2x.png */; };
+		FA3C90461764F85700737236 /* readme sam in Resources */ = {isa = PBXBuildFile; fileRef = FA3C90451764F85700737236 /* readme sam */; };
 		FAB17B32174F6072000BD680 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAB17B31174F6072000BD680 /* UIKit.framework */; };
 		FAB17B34174F6072000BD680 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAB17B33174F6072000BD680 /* Foundation.framework */; };
 		FAB17B36174F6072000BD680 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAB17B35174F6072000BD680 /* CoreGraphics.framework */; };
@@ -69,6 +70,7 @@
 		FA2C63BD174F78B5003DCFF5 /* moneybg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moneybg.png; sourceTree = "<group>"; };
 		FA2C63BE174F78B5003DCFF5 /* right_arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = right_arrow.png; sourceTree = "<group>"; };
 		FA2C63BF174F78B5003DCFF5 /* right_arrow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "right_arrow@2x.png"; sourceTree = "<group>"; };
+		FA3C90451764F85700737236 /* readme sam */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "readme sam"; sourceTree = "<group>"; };
 		FAB17B2E174F6072000BD680 /* MoneyInOut.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoneyInOut.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAB17B31174F6072000BD680 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		FAB17B33174F6072000BD680 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -162,6 +164,7 @@
 		FAB17B25174F6072000BD680 = {
 			isa = PBXGroup;
 			children = (
+				FA3C90451764F85700737236 /* readme sam */,
 				FAB17B37174F6072000BD680 /* MoneyInOut */,
 				FAB17B30174F6072000BD680 /* Frameworks */,
 				FAB17B2F174F6072000BD680 /* Products */,
@@ -291,6 +294,7 @@
 				FA2C63CA174F78B5003DCFF5 /* moneybg.png in Resources */,
 				FA2C63CB174F78B5003DCFF5 /* right_arrow.png in Resources */,
 				FA2C63CC174F78B5003DCFF5 /* right_arrow@2x.png in Resources */,
+				FA3C90461764F85700737236 /* readme sam in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
