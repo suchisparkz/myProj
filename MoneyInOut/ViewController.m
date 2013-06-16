@@ -588,6 +588,8 @@
 {
        NSLog(@"Current StateYEAR %@",currentState);
     
+    NSLog(@"Comiited");
+    
      NSArray *months = [[NSArray alloc]initWithObjects:@"Jan",@"Feb",@"Mar",@"Apr",@"May",@"June",@"July",@"Aug",@"Sep",@"Oct",@"Nov",@"Dec",nil];
     
     if([currentState isEqualToString: @"Today"])
